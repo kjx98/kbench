@@ -4,7 +4,7 @@
 
 /* The implementation */
 #define __USE_LARGEFILE64
-#include <apr-1.0/apr_hash.h>
+#include <apr-1/apr_hash.h>
 
 /* =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- */
 
